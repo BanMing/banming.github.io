@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-66300448","path":"/GameEngine/Unreal/optimize/","title":"Optimize","lang":"en-US","frontmatter":{"title":"Optimize","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4e373e5c","path":"/Basic/language/Golang/","title":"Golang","lang":"en-US","frontmatter":{"title":"Golang","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

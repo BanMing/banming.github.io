@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-56c4ba50","path":"/Graphic/bgfx/","title":"Bgfx","lang":"en-US","frontmatter":{"title":"Bgfx","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

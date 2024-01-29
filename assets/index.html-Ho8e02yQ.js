@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d1320e08","path":"/Graphic/basic/geometry/","title":"Geometry","lang":"en-US","frontmatter":{"title":"Geometry","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

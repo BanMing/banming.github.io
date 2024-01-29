@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-243461fe","path":"/Graphic/basic/textureformat/","title":"Textureformat","lang":"en-US","frontmatter":{"title":"Textureformat","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

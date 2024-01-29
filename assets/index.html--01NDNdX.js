@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-618012e6","path":"/Graphic/basic/shading/","title":"Shading","lang":"en-US","frontmatter":{"title":"Shading","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
