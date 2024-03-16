@@ -1,6 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as a,b as i}from"./app-Dc2yRyOy.js";const t={},r=i(`<h1 id="蓝图转c" tabindex="-1"><a class="header-anchor" href="#蓝图转c" aria-hidden="true">#</a> 蓝图转C++</h1><p>可以设置蓝图转化成C++，来解决一些性能上的问题。标记需要生成C++的蓝图就不会打到pak包中。</p><p>一般是在打包的时候就会让标记的蓝图转化为C++，手动转化就直接打开蓝图，点击<code>File -&gt; Developer -&gt; Generate Native Code</code>即可。</p><p>相关代码可以查看：</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>FGeneratedCodeData.Save
-
-FBlueprintNativeCodeGenModule::GenerateSingleAsset
-
-FBlueprintNativeCodeGenUtils::GenerateCppCode
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="引用" tabindex="-1"><a class="header-anchor" href="#引用" aria-hidden="true">#</a> 引用</h2><p>https://docs.unrealengine.com/4.27/zh-CN/Resources/SampleGames/ARPG/BalancingBlueprintAndCPP/</p><p>https://www.unrealengine.com/en-US/onlinelearning-courses/converting-blueprints-to-c</p>`,8),d=[r];function s(c,l){return n(),a("div",null,d)}const u=e(t,[["render",s],["__file","BP2C__.html.vue"]]);export{u as default};
