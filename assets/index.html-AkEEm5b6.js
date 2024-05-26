@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0670885c","path":"/GameEngine/Unity/somecode/","title":"Somecode","lang":"en-US","frontmatter":{"title":"Somecode","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

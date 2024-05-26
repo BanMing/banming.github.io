@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2701684d","path":"/Basic/math/","title":"Math","lang":"en-US","frontmatter":{"title":"Math","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

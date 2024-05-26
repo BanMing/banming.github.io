@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-ded0560a","path":"/GameEngine/Unity/manual/normal/","title":"Normal","lang":"en-US","frontmatter":{"title":"Normal","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
